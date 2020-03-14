@@ -1,0 +1,8 @@
+﻿csense-csharp-plugin/csense_csharp_plugin.Test/bin
+csense-csharp-plugin/csense_csharp_plugin.Test/obj
+csense-csharp-plugin/csense_csharp_plugin.Vsix/bin
+csense-csharp-plugin/csense_csharp_plugin.Vsix/obj
+csense-csharp-plugin/csense_csharp_plugin/obj
+csense-csharp-plugin/csense_csharp_plugin/bin
+.vs/CsenseCsharpAnalyzers/v16
+.vs/CsenseCsharpAnalyzers/DesignTimeBuild
